@@ -10,6 +10,7 @@ This is the mini project about inventory management system which comes under ski
 
 ### About the files
 sales.json = Here are products purchase by customers.
+
 record.json= This is where all record is there.
 Adding products = Here new products are added or existing products get updated.
 Purchasing = Customer purchase product of their own choice .
